@@ -22,3 +22,5 @@
 - **Zero Rate Extraction**: Extracts zero rates from a dataset of bonds with varying maturities and coupon rates.
 - **Visualization**: Plots the zero yield curve using Plotly, showing zero rates across different maturities.
 
+## Screenshots
+![output](output_.png)
